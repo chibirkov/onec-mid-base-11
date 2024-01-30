@@ -211,6 +211,10 @@
           <dataPath xsi:type="form:DataPath">
             <segments>Объект.СогласованнаяСкидка</segments>
           </dataPath>
+          <handlers>
+            <event>OnChange</event>
+            <name>ЧИВ_СогласованнаяСкидкаПриИзмененииВместо</name>
+          </handlers>
           <extendedTooltip>
             <name>СогласованнаяСкидкаРасширеннаяПодсказка</name>
             <id>173</id>
